@@ -4,7 +4,7 @@
   "macros": [
     "{KC_LGUI,KC_TAB}",
     "{KC_LGUI,KC_GRV}",
-    "{KC_LGUI,KC_LCTL,KC_LSFT,KC_4}",
+    "{KC_LGUI,KC_LSFT,KC_4}",
     "{KC_LGUI,KC_LSFT,KC_5}",
     "",
     "",
