@@ -3,7 +3,7 @@
   "vendorProductId": 514291575,
   "macros": [
     "{KC_LGUI,KC_TAB}",
-    "{KC_LGUI,KC_LSFT,KC_LCTL,KC_M}",
+    "{KC_LGUI,KC_GRV}",
     "{KC_LGUI,KC_LSFT,KC_4}",
     "{KC_LGUI,KC_LSFT,KC_5}",
     "",
@@ -67,7 +67,7 @@
       "KC_QUOT",
       "KC_MUTE",
       "KC_ENT",
-      "MACRO01",
+      "KC_F13",
       "KC_NO",
       "KC_LSFT",
       "KC_LSFT",
